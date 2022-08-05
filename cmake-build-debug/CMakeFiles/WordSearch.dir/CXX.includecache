@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+S:/Non-Git Programming Foler/WordSearch/FIleHandler.h
+iostream
+-
+string
+-
+list
+-
+vector
+-
+fstream
+-
+limits
+-
+
+S:/Non-Git Programming Foler/WordSearch/FileHandler.cpp
+FileHandler.h
+S:/Non-Git Programming Foler/WordSearch/FIleHandler.h
+

@@ -1,0 +1,3 @@
+S:/Non-Git Programming Foler/WordSearch/build/CMakeFiles/WordSearch.dir
+S:/Non-Git Programming Foler/WordSearch/build/CMakeFiles/ALL_BUILD.dir
+S:/Non-Git Programming Foler/WordSearch/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,14 @@
+UNSOLVED_GRID
+g c t 
+o a a 
+d t h 
+
+PUZZLE_WORDS
+cat
+hat
+dog
+
+SOLVED_GRID
+g c t 
+o a a 
+d t h 

@@ -1,0 +1,3 @@
+S:/Non-Git Programming Foler/WordSearch/cmake-build-debug/CMakeFiles/WordSearch.dir
+S:/Non-Git Programming Foler/WordSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+S:/Non-Git Programming Foler/WordSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

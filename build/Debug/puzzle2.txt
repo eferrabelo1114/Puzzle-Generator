@@ -1,0 +1,40 @@
+
+UNSOLVED_GRID
+y m m m w t g o d a t b 
+d o z v a q s s o e m u 
+v t n a t p p d p s u a 
+c h c l e b a o z u x m 
+c e a o r h e p c t h l 
+h r t r b x e r e g r o 
+a f p a o e u i m n k n 
+r u d n t n m a u b p i 
+g c p t t o w e f q t o 
+e k g j l h o p r a r n 
+r e m o e p w z e d q y 
+o r x y t i j b p b h a 
+
+PUZZLE_WORDS
+motherfucker
+waterbottle
+cat
+dog
+iphonex
+valorant
+charger
+perfume
+onion
+airpods
+
+SOLVED_GRID
+  m     w   g o d       
+  o   v a     s         
+  t   a t     d         
+  h c l e     o         
+c e a o r     p         
+h r t r b x   r e     o 
+a f   a o e   i m     n 
+r u   n t n   a u     i 
+g c   t t o     f     o 
+e k     l h     r     n 
+r e     e p     e       
+  r       i     p       

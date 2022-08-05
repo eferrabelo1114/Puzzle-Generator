@@ -1,0 +1,10 @@
+^S:\NON-GIT PROGRAMMING FOLER\WORDSEARCH\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SS:/Non-Git Programming Foler/WordSearch" "-BS:/Non-Git Programming Foler/WordSearch/build" --check-stamp-file "S:/Non-Git Programming Foler/WordSearch/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,27 @@
+
+UNSOLVED_GRID
+o y v o v a o w 
+u o a x w h m s 
+h u l n c b g x 
+c t o c p o o k 
+t u r s h f o z 
+i b a k o v g a 
+w e n t n x l d 
+t k t n e l e y 
+
+PUZZLE_WORDS
+valorant
+youtube
+google
+twitch
+phone
+
+SOLVED_GRID
+  y v           
+  o a           
+h u l       g   
+c t o   p   o   
+t u r   h   o   
+i b a   o   g   
+w e n   n   l   
+t   t   e   e   
