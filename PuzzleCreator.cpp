@@ -53,6 +53,9 @@ void increaseGridSize(std::vector<std::vector<char>> *grid, int x)
 }
 
 // Checks if a word will fit within the specified grid using the coordinates, orientation, and direction
+/*
+    TODO: This algo is a bit wonky
+*/
 bool validPosition(std::string word, std::vector<std::vector<char>> grid, int x, int y, int orientation, int direction)
 {
     int gridLength = grid.size();
@@ -70,13 +73,6 @@ bool validPosition(std::string word, std::vector<std::vector<char>> grid, int x,
         {
             wordIndex = word.length() - 1;
         }
-
-        /*
-         * x, c, x, x
-         * x, a, x, x
-         * x, t, x, x
-         * x, x, x, x
-         */
 
         for (int i = x; i <= (x + (word.length() - 1)); i++)
         {
@@ -105,7 +101,7 @@ bool validPosition(std::string word, std::vector<std::vector<char>> grid, int x,
         return true;
     }
 
-    else if (direction == 1)  // Word is being placed vertically
+    else if (direction == 1) // Word is being placed vertically
     {
         if ((gridLength - y) < word.length())
         {
