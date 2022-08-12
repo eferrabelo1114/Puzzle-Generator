@@ -1,7 +1,7 @@
 /**
     Generates a random word search puzzle using the specificed words
     @file PuzzleCreator.h
-    @author Evan
+    @author Ethan Ferrabelo
     @version 1.1.9 8/5/2022
 */
 

@@ -1,7 +1,7 @@
 /**
     Handles the file saving/loading for the puzzle applicaiton.
     @file FileHandler.h
-    @author Evan
+    @author Ethan Ferrabelo
     @version 1.0.3 8/5/2022
 */
 

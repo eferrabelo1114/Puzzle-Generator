@@ -1,7 +1,7 @@
 /**
     Handles the application's windows
     @file PuzzleCreator.h
-    @author Evan
+    @author Ethan Ferrabelo
     @version 1.0.0 8/5/2022
 */
 
